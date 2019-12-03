@@ -2,15 +2,15 @@
 Your kid's Internet is a product that facilitates between parents, their children, and the internet. 
 We help parents stay informed about their kid's experinces online to ensuring their safety online and better connect to them. 
 
-##Our Product vision:
+**Our Product vision:**
 We will create curated content designed for parents which will help them stay informed about current trend on the internet be they dangerous trend or internet culture. It’s important to meet parents where they are. To do this we found that an app along with a bi-weekly newsletter ensures that parents have the choice in how they want to stay informed. The News letter allows us to provide indepth content to parents who might be more comfortable using email rather than an app. The dedicated app allows us to not only provide the same content in a more easily accessable manner. It allows us to send alerts to parents' phones to current dangerous trends that might affect their children before any news cycle would be able to cover it. The app also allows expand the product, for example allowing parents to send in questions regarding the internet and technology which will be answered by our team fo experts. 
 
 [put mockups here] 
 
 
-#Motivation behind the product:#
+**Motivation behind the product:**
 Many parents feel uninformed about their children's lives on the internet. They have their own experince of the internet, but their children experince a completely different internet. This is by virtue of the fact that the website algorithms show them different content, different kinds of apps and product are marketed at the two different groups. And more of the childrens' social life has migrated to the internet and not always on platforms which parents understand well enough. Many parents recognize this. They are aware 
-of the prevolance of the internet and that it has potential dangers. 
+of the prevolance of the intenet and its huge role in their childrens' lives, and they are aware that they are unaware of much of what their children do online. 
 similar to how one stays informed about the happenings around the world through digesting a 30 minute news report without having to necessarily know all the details. This still makes them much more informed individuals. 
 
 Our idea slowly developed based on the following hypothesies:
