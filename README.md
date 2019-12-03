@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Your Kid's Internet  
+Your kid's Internet is a product that facilitates between parents, their children, and the internet. 
+We help parents stay informed about their kid's experinces online to ensuring their safety online and better connect to them. 
 
-You can use the [editor on GitHub](https://github.com/ameerry1998/YourKid-sInternet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Our Product:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Our idea slowly developed based on the following hypothesies:
+
 
 ### Markdown
 
